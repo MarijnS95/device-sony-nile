@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Platform path
-PLATFORM_COMMON_PATH := device/sony/nile
+PLATFORM_COMMON_PATH := device/sony/nile-common
 
 SOMC_PLATFORM := nile
 SOMC_KERNEL_VERSION := 4.9
