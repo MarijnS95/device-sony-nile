@@ -105,6 +105,7 @@ PRODUCT_PACKAGES += \
     update_engine_client \
     update_engine_sideload \
     update_verifier \
+    bootctl \
     bootctrl.sdm660 \
     bootctrl.sdm660.recovery
 
