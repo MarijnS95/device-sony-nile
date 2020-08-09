@@ -178,13 +178,6 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.sdm660 \
     audio.primary.sdm660
 
-# GFX
-PRODUCT_PACKAGES += \
-    copybit.sdm660 \
-    gralloc.sdm660 \
-    hwcomposer.sdm660 \
-    memtrack.sdm660
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.sdm660
