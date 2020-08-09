@@ -16,7 +16,6 @@
 PLATFORM_COMMON_PATH := device/sony/nile
 
 SOMC_PLATFORM := nile
-SOMC_KERNEL_VERSION := 4.14
 
 PRODUCT_PLATFORM_SOD := true
 
