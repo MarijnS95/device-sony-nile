@@ -173,29 +173,6 @@ PRODUCT_PACKAGES += \
     init.nile.pwr \
     ueventd
 
-# Audio
-PRODUCT_PACKAGES += \
-    sound_trigger.primary.sdm660 \
-    audio.primary.sdm660
-
-# GPS
-PRODUCT_PACKAGES += \
-    gps.sdm660
-
-# Sensors
-PRODUCT_PACKAGES += \
-    sensors_settings \
-    hals.conf
-
-# CAMERA
-PRODUCT_PACKAGES += \
-    camera.sdm660
-
-# QCOM Bluetooth
-PRODUCT_PACKAGES += \
-    android.hardware.bluetooth@1.0-impl-qti \
-    android.hardware.bluetooth@1.0-service-qti
-
 PRODUCT_PROPERTY_OVERRIDES += \
     vendor.qcom.bluetooth.soc=cherokee
 
